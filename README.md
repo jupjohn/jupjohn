@@ -2,6 +2,11 @@
 
 I do .NET stuff, and complain about software.
 
+## Random things you should check out
+
+ - [Chatterino](https://github.com/Chatterino/chatterino2): a desktop chat client for twitch.tv
+ - more to come...
+
 ## FAQ
 
 ### Why do your commits look funky?
